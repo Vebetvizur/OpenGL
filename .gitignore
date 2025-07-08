@@ -1,0 +1,6 @@
+*.lib
+*.[ao]
+build/
+file.abc
+CMakeLists.txt
+
